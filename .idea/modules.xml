@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springMVC-study.iml" filepath="$PROJECT_DIR$/springMVC-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-01-servlet/springmvc-01-servlet.iml" filepath="$PROJECT_DIR$/springmvc-01-servlet/springmvc-01-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-02.1-hellomvc/springmvc-02.1-hellomvc.iml" filepath="$PROJECT_DIR$/springmvc-02.1-hellomvc/springmvc-02.1-hellomvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-02.2-hellomvc/springmvc-02.2-hellomvc.iml" filepath="$PROJECT_DIR$/springmvc-02.2-hellomvc/springmvc-02.2-hellomvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-03-annotation/springmvc-03-annotation.iml" filepath="$PROJECT_DIR$/springmvc-03-annotation/springmvc-03-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-04-controller/springmvc-04-controller.iml" filepath="$PROJECT_DIR$/springmvc-04-controller/springmvc-04-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-05-json/springmvc-05-json.iml" filepath="$PROJECT_DIR$/springmvc-05-json/springmvc-05-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-06-Ajax/springmvc-06-Ajax.iml" filepath="$PROJECT_DIR$/springmvc-06-Ajax/springmvc-06-Ajax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-07-intercepter/springmvc-07-intercepter.iml" filepath="$PROJECT_DIR$/springmvc-07-intercepter/springmvc-07-intercepter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-08-file/springmvc-08-file.iml" filepath="$PROJECT_DIR$/springmvc-08-file/springmvc-08-file.iml" />
+    </modules>
+  </component>
+</project>
